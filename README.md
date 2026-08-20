@@ -2,6 +2,8 @@
 
 A cinematic, editorial scrollytelling web essay exploring forward motion, creative momentum, and intuitive direction. Built with React, GSAP ScrollTrigger, Lenis smooth scrolling, and an archival visual design system.
 
+![Red Horizon Interactive Preview](./public/images/preview.gif)
+
 ---
 
 ## Overview
@@ -125,7 +127,7 @@ red-horizon/
 ├── index.html              # HTML entrypoint with metadata and root mount
 ├── package.json            # Project dependencies and script definitions
 ├── public/
-│   └── images/             # Visual art plates and chapter photography (.webp)
+│   └── images/             # Visual art plates, chapter photography, and preview GIF
 ├── src/
 │   ├── main.jsx            # Application root, narrative content, and GSAP timeline bindings
 │   ├── styles.css          # Global typography imports and foundational utility styles
